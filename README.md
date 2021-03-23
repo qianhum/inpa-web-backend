@@ -28,7 +28,7 @@ CRON=1 * * * *
 # default NPM registry URL
 # Only used ONCE when starting with empty/non-exist database
 # NPM registry URL can be edited after server starts
-# default value: https://registry.npmjs.org
+# default value: https://registry.npm.taobao.org
 NPM_REGISTRY=https://registry.npm.taobao.org
 ```
 
